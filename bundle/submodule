@@ -1,0 +1,20 @@
+git submodule add ~/.vim/bundle/a.vim                    ./bundle/a.vim/
+git submodule add ~/.vim/bundle/auto_mkdir               ./bundle/auto_mkdir/
+git submodule add ~/.vim/bundle/Conque-Shell             ./bundle/Conque-Shell/
+git submodule add ~/.vim/bundle/cscope.vim               ./bundle/cscope.vim/
+git submodule add ~/.vim/bundle/echofunc                 ./bundle/echofunc/
+git submodule add ~/.vim/bundle/google.vim               ./bundle/google.vim/
+git submodule add ~/.vim/bundle/Markdown                 ./bundle/Markdown/
+git submodule add ~/.vim/bundle/minibufexpl.vim          ./bundle/minibufexpl.vim/
+git submodule add ~/.vim/bundle/neocomplcache            ./bundle/neocomplcache/
+git submodule add ~/.vim/bundle/nerdcommenter            ./bundle/nerdcommenter/
+git submodule add ~/.vim/bundle/nerdtree                 ./bundle/nerdtree/
+git submodule add ~/.vim/bundle/OmniCppComplete          ./bundle/OmniCppComplete/
+git submodule add ~/.vim/bundle/project.tar.gz           ./bundle/project.tar.gz/
+git submodule add ~/.vim/bundle/snipMate                 ./bundle/snipMate/
+git submodule add ~/.vim/bundle/snipmate-snippets        ./bundle/snipmate-snippets/
+git submodule add ~/.vim/bundle/taglist                  ./bundle/taglist/
+git submodule add ~/.vim/bundle/vim-indent-guides        ./bundle/vim-indent-guides/
+git submodule add ~/.vim/bundle/vundle                   ./bundle/vundle/
+
+

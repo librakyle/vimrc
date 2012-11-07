@@ -1,0 +1,51 @@
+[submodule "bundle/a.vim"]
+	path = bundle/a.vim
+	url = /home/librakyle/.vim/bundle/a.vim
+[submodule "bundle/auto_mkdir"]
+	path = bundle/auto_mkdir
+	url = /home/librakyle/.vim/bundle/auto_mkdir
+[submodule "bundle/Conque-Shell"]
+	path = bundle/Conque-Shell
+	url = /home/librakyle/.vim/bundle/Conque-Shell
+[submodule "bundle/cscope.vim"]
+	path = bundle/cscope.vim
+	url = /home/librakyle/.vim/bundle/cscope.vim
+[submodule "bundle/echofunc"]
+	path = bundle/echofunc
+	url = /home/librakyle/.vim/bundle/echofunc
+[submodule "bundle/google.vim"]
+	path = bundle/google.vim
+	url = /home/librakyle/.vim/bundle/google.vim
+[submodule "bundle/Markdown"]
+	path = bundle/Markdown
+	url = /home/librakyle/.vim/bundle/Markdown
+[submodule "bundle/minibufexpl.vim"]
+	path = bundle/minibufexpl.vim
+	url = /home/librakyle/.vim/bundle/minibufexpl.vim
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = /home/librakyle/.vim/bundle/neocomplcache
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = /home/librakyle/.vim/bundle/nerdcommenter
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = /home/librakyle/.vim/bundle/nerdtree
+[submodule "bundle/OmniCppComplete"]
+	path = bundle/OmniCppComplete
+	url = /home/librakyle/.vim/bundle/OmniCppComplete
+[submodule "bundle/project.tar.gz"]
+	path = bundle/project.tar.gz
+	url = /home/librakyle/.vim/bundle/project.tar.gz
+[submodule "bundle/snipMate"]
+	path = bundle/snipMate
+	url = /home/librakyle/.vim/bundle/snipMate
+[submodule "bundle/snipmate-snippets"]
+	path = bundle/snipmate-snippets
+	url = /home/librakyle/.vim/bundle/snipmate-snippets
+[submodule "bundle/vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = /home/librakyle/.vim/bundle/vim-indent-guides
+[submodule "bundle/vundle"]
+	path = bundle/vundle
+	url = /home/librakyle/.vim/bundle/vundle
