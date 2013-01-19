@@ -59,6 +59,7 @@ noremap <C-L> <C-W>l
 set nocompatible               " be iMproved
 filetype off                   " required!
 
+" git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 Bundle 'gmarik/vundle'
